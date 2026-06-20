@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+
+    <!-- Navigation -->
+    <string name="titre_catalogue">Catalogue</string>
+    <string name="titre_panier">Panier</string>
+    <string name="titre_favoris">Favoris</string>
+    <string name="titre_detail">Détail produit</string>
+
+    <!-- Formats -->
+    <string name="format_prix">%1$.2f TND</string>
+    <string name="format_total">Total : %1$.2f TND</string>
+
+    <!-- Messages -->
+    <string name="message_ajoute_panier">%1$s ajouté au panier</string>
+    <string name="message_commande_validee">Commande validée avec succès !</string>
+    <string name="message_commande_echec">Impossible de valider la commande.</string>
+    <string name="erreur_produit_introuvable">Produit introuvable.</string>
+
+    <!-- États vides -->
+    <string name="catalogue_vide">Aucun produit disponible pour le moment.</string>
+    <string name="panier_vide">Votre panier est vide.</string>
+    <string name="favoris_vide">Vous n\'avez aucun favori pour le moment.</string>
+
+    <!-- Actions -->
+    <string name="action_ajouter">Ajouter</string>
+    <string name="action_ajouter_panier">Ajouter au panier</string>
+    <string name="action_commander">Valider la commande</string>
+
+    <!-- Accessibilité -->
+    <string name="cd_image_produit">Image du produit</string>
+    <string name="cd_favori">Ajouter ou retirer des favoris</string>
+    <string name="cd_supprimer">Supprimer</string>
+    <string name="cd_diminuer">Diminuer la quantité</string>
+    <string name="cd_augmenter">Augmenter la quantité</string>
+</resources>
